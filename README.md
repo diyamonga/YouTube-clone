@@ -1,5 +1,5 @@
 
-# YouTubeClone-NullClass
+# YouTube Clone
 
 ## Introduction
 This project involved enhancing a YouTube-inspired web application with three primary features: a points allocation system for watching videos, a custom video player with gesture-based controls, and a VoIP feature for video calls and screen sharing. The objective was to create an engaging and interactive user experience while maintaining functionality and ease of use.
@@ -36,8 +36,8 @@ The backend is hosted on Render: [YouTube Clone Backend](https://youtubeclone-nu
 ### Local Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/AthulTM/YouTubeClone-NullClass.git
-   cd YouTubeClone-NullClass
+   git clone https://github.com/diyamonga/YouTube-clone.git
+   cd YouTubeClone
    ```
 
 2. Install dependencies:
